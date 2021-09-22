@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://image.freepik.com/vector-gratis/fondo-textura-abstracta-pastel-acuarela_65186-508.jpg");
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace; 
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    color:blue;
+}
+img{
+    width:400px;
+    justify-content: center;
+}
+div#thirdDiv{
+    width:500px;
+    height:600px;
+    background-color: rgb(245 248 250 / 40%);
+    padding: 50px;
+    border: 1px solid #F3F3F3;
+}
+span#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
