@@ -1,0 +1,88 @@
+body{
+    font-family: poppins;
+    font-size: 12px;
+    margin: 0px 150px;
+}
+section#encabezado{
+    background-color: rgb(76 175 80 / 40%);
+    margin: 15px;
+    color: #045049;
+}
+div.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+div.col{
+    margin: 2px;
+    font-size: 18px;
+}
+img{
+    border-radius: 50%;
+    width: 25%;
+    margin: 5px;
+}
+div.Descripción-Personal{
+    font-size: 14px;
+}
+section#cuerpo{
+    background-color: rgb(76 175 80 / 20%);
+    margin: 15px;
+}
+div.experiencia{
+    margin: 20px;
+    font-size: 14px;
+    padding: 10px;
+    text-align: justify;
+    color: #045049;
+}
+span{
+    font-size: 16px;
+    color: black;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+
+}div.educacion{
+    margin: 20px;
+    font-size: 14px;
+    padding: 10px;
+    text-align: justify;
+    color: #045049;    
+}
+div.skills{
+    margin: 20px;
+    font-size: 14px;
+    padding: 10px;
+    text-align: justify;
+    color: #045049; 
+}
+div.Intereses{
+    margin: 20px;
+    font-size: 14px;
+    padding: 10px;
+    text-align: justify;
+    color: #045049; 
+}
+div.row{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+div.container-skills{
+    display: flex;
+    justify-content: center;
+}
+section#Henry{
+    background-color: rgb(76 175 80 / 70%);
+    margin: 15px;
+}
+div.estudiarhenry{
+    margin: 20px;
+    font-size: 14px;
+    padding: 10px;
+    text-align: justify;
+    color: #045049; 
+}
